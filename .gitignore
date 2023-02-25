@@ -1,0 +1,5 @@
+
+/volumes/**
+/backups/**
+osticketdb.sql.gz
+osticket_key.pem
