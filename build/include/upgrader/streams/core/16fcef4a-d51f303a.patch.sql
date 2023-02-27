@@ -21,5 +21,5 @@ ALTER TABLE `%TABLE_PREFIX%page`
 
 -- Finished with patch
 UPDATE `%TABLE_PREFIX%config`
-    SET `value` = 'd51f303a2c9ee04f9906fc1b6047459f'
+    SET `value` = '62c58f5fb82142653be0bfd625da584a'
     WHERE `key` = 'schema_signature' AND `namespace` = 'core';
